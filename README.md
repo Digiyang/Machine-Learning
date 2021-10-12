@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning course at the Beuth University - Prof. Dr. Agathe Merceron 
+Machine Learning course at the Berlin University (BHT) - Prof. Dr. Agathe Merceron 
